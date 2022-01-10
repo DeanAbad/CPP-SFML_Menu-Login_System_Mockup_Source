@@ -1,4 +1,12 @@
-# sfml-vscode-boilerplate
+# CPP-SFML_Menu-Login_System_Mockup_Source
+
+The source code for <a href="https://github.com/MumuNiMochii/CPP-SFML_Menu-Login_System_Mockup" title="Go to repository" target="_blank">CPP-SFML_Menu-Login_System_Mockup</a> program.
+
+---
+
+<details><summary><a href="https://github.com/andrew-r-king" title="Go to profile" target="_blank">Andrew <b>King</b>'s</a> boilerplate</summary>
+
+## sfml-vscode-boilerplate
 
 A cross-platform [SFML](https://www.sfml-dev.org) 2.5.1 & C++17 build environment for [Visual Studio Code](https://code.visualstudio.com/)
 
@@ -633,3 +641,5 @@ fi
 ```
 
 Run any build task (from scratch) and you should be good to go!
+
+</details>
